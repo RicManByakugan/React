@@ -6,7 +6,7 @@ const About = () => {
         <div className="about">
             <Navigation/>
             <Logo/>
-            <h3>A propos</h3>
+            <h3>A propos eeeeeeeeeeeeeeeeeeeeeeeeee</h3>
             <p>
                 loremloremloremloremloremloremloremloremlorem
                 loremloremloremloremloremloremloremloremlorem
